@@ -1,5 +1,6 @@
 @font-face { font-family: WinFont; src: url('WinFont.ttf'); }
 p {
   font-family: WinFont;
-  color: blue;
+  color: #FF6600;
+  font-size: 200%;
 }
