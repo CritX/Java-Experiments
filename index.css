@@ -1,5 +1,5 @@
-@font-face { font-family: WinFont; src: url('WinFont.ttf'); }
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@font-face { font-family: Montserrat; src: url('https://fonts.googleapis.com/css?family=Montserrat'); }
+@import url('');
 p {
   font-family: Montserrat;
   color: #FF6600;
